@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.danielpsilva.course.entities.Category;
-import com.danielpsilva.course.entities.User;
 import com.danielpsilva.course.repositories.CategoryRepository;
 
 @Service
